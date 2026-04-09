@@ -149,8 +149,8 @@ status   →  building quietly 🤫
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pranto@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/pranto)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:naheunpranto258@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/naheunalam)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=twitter&logoColor=1D9BF0)](https://twitter.com/pranto)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://pranto.dev)
 
