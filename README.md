@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **mastering the fundamentals of web development and building responsive frontend projects.**
 
-- 🌱 I’m currently learning **full-stackeb development at Programming Hero (currently focusing on React and modern UI frameworks).**
+- 🌱 I’m currently learning **full-stack development at Programming Hero (currently focusing on React and modern UI frameworks).**
 
 - 👯 I’m looking to collaborate on **beginner-friendly open-source projects to improve my teamwork and coding skills.**
 
