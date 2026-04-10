@@ -57,8 +57,8 @@ status   →  building quietly 🤫
 
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=e34f26)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572b6)&nbsp;
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0d0d0d?style=flat-square&logo=tailwind-css&logoColor=38bdf8)&nbsp;
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=7952b3)
 
 <br/>
@@ -72,8 +72,8 @@ status   →  building quietly 🤫
 
 **frameworks**
 
-![Django](https://img.shields.io/badge/django-0d0d0d?style=flat-square&logo=django&logoColor=44b78b)&nbsp;
 ![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
+![Django](https://img.shields.io/badge/django-0d0d0d?style=flat-square&logo=django&logoColor=44b78b)&nbsp;
 
 <br/>
 
