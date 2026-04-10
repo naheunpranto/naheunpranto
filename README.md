@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Hi%20👋%20I%20am%20Naheun%20Pranto&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Web%20Developer&descSize=16&descColor=888888&descAlignY=78" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Hi%20👋%20I%20am%20Naheun%20Alam%20Pranto&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Web%20Developer&descSize=16&descColor=888888&descAlignY=78" width="100%"/>
 </div>
 
 <br/>
@@ -19,7 +19,7 @@
 ### About Me
 
 ```
-name     →  Naheun Pranto
+name     →  Naheun Alam Pranto
 role     →  Full Stack Web Developer
 from     →  Dhaka, Bangladesh
 focus    →  Web · APIs · UX
