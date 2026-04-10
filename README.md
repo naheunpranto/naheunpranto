@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Hi%20👋%20I%20am%20Naheun%20Pranto&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=full%20stack%20developer&descSize=16&descColor=888888&descAlignY=78" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Hi%20👋%20I%20am%20Naheun%20Pranto&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Web%20Developer&descSize=16&descColor=888888&descAlignY=78" width="100%"/>
 </div>
 
 <br/>
@@ -17,11 +16,11 @@
 
 <br/>
 
-### about
+### About Me
 
 ```
 name     →  Naheun Pranto
-role     →  Full Stack Developer
+role     →  Full Stack Web Developer
 from     →  Dhaka, Bangladesh
 focus    →  Web · APIs · UX
 status   →  building quietly 🤫
@@ -29,7 +28,7 @@ status   →  building quietly 🤫
 
 <br/>
 
-### currently
+### Currently
 
 - 🔨 &nbsp;working on: Building interactive components and projects using React.js
 - 📖 &nbsp;deepening on: Transitioning from Vanilla JS to React Hooks and State Management  
@@ -41,57 +40,59 @@ status   →  building quietly 🤫
 
 <br/>
 
-### stack
+### Stack
 
 <div align="center">
 
-**programming languages**
+**Programming languages**
 
-![JavaScript](https://img.shields.io/badge/javascript-0d0d0d?style=flat-square&logo=javascript&logoColor=f7df1e)&nbsp;
-![Python](https://img.shields.io/badge/python-0d0d0d?style=flat-square&logo=python&logoColor=3776ab)
-
-<br/>
-
-**frontend development**
-
-![HTML5](https://img.shields.io/badge/html5-0d0d0d?style=flat-square&logo=html5&logoColor=e34f26)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-0d0d0d?style=flat-square&logo=css3&logoColor=1572b6)&nbsp;
-![React](https://img.shields.io/badge/react-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/tailwind-0d0d0d?style=flat-square&logo=tailwind-css&logoColor=38bdf8)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=7952b3)
+![C](https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=00599C)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=f7df1e)&nbsp;
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776ab)
 
 <br/>
 
-**backend development**
+**Frontend development**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=e34f26)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572b6)&nbsp;
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0d0d0d?style=flat-square&logo=tailwind-css&logoColor=38bdf8)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=7952b3)
+
+<br/>
+
+**Backend development**
 
 ![Node.js](https://img.shields.io/badge/node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
-![Express](https://img.shields.io/badge/express-0d0d0d?style=flat-square&logo=express&logoColor=ffffff)
+![Express](https://img.shields.io/badge/express.js-0d0d0d?style=flat-square&logo=express&logoColor=ffffff)
 
 <br/>
 
 **frameworks**
 
 ![Django](https://img.shields.io/badge/django-0d0d0d?style=flat-square&logo=django&logoColor=44b78b)&nbsp;
-![React](https://img.shields.io/badge/react-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61dafb)
 
 <br/>
 
 **database**
 
-![MongoDB](https://img.shields.io/badge/mongodb-0d0d0d?style=flat-square&logo=mongodb&logoColor=47a248)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-0d0d0d?style=flat-square&logo=mysql&logoColor=4479a1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47a248)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=4479a1)
 
 <br/>
 
 **backend as a service**
 
-![Firebase](https://img.shields.io/badge/firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=ffca28)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=ffca28)
 
 <br/>
 
 **design tools**
 
-![Figma](https://img.shields.io/badge/figma-0d0d0d?style=flat-square&logo=figma&logoColor=f24e1e)
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=f24e1e)
 
 </div>
 
@@ -105,8 +106,18 @@ status   →  building quietly 🤫
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naheunpranto&theme=github_dark" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naheunpranto&theme=github_dark" />
+
+![stats (2)](https://github.com/user-attachments/assets/710a43ad-f7ac-4384-b433-8298575f3919)
+
+
+<!-- New file -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naheunpranto&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naheunpranto&theme=github_dark"/>
+
+
+
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naheunpranto&theme=github_dark" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naheunpranto&theme=github_dark" /> -->
 
 </div>
 
@@ -114,8 +125,8 @@ status   →  building quietly 🤫
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naheunpranto&theme=github_dark" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naheunpranto&theme=github_dark&utcOffset=6" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naheunpranto&theme=github_dark" />&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naheunpranto&theme=github_dark&utcOffset=6" />  -->
 
 </div>
 
@@ -123,7 +134,8 @@ status   →  building quietly 🤫
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=naheunpranto&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=888888&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=444444)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=naheunpranto&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=888888&sideLabels=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=444444)](https://git.io/streak-stats) -->
+
 
 </div>
 
