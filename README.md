@@ -176,9 +176,3 @@ status   →  building quietly 🤫
 <br/>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:0f0f0f&height=80&section=footer&animation=fadeIn" width="100%"/>
-  
-  <sub><sub>visitors &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=naheunpranto&color=888888&style=flat-square&label=" alt=""/></sub></sub>
-</div>
