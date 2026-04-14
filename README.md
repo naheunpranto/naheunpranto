@@ -1,3 +1,7 @@
+<div align="left">
+<sub><sub>visitors &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=naheunpranto&color=888888&style=flat-square&label=" alt=""/></sub></sub>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0f0f,100:1a1a2e&height=180&section=header&text=Hi%20👋%20I%20am%20Naheun%20Alam%20Pranto&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Web%20Developer&descSize=16&descColor=888888&descAlignY=78" width="100%"/>
 </div>
@@ -107,17 +111,16 @@ status   →  building quietly 🤫
 <div align="center">
 
 
-![stats (2)](https://github.com/user-attachments/assets/710a43ad-f7ac-4384-b433-8298575f3919)
+<!-- ![stats (2)](https://github.com/user-attachments/assets/710a43ad-f7ac-4384-b433-8298575f3919) -->
 
 
 <!-- New file -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naheunpranto&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naheunpranto&theme=github_dark"/>
 
+&nbsp;
 
-
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naheunpranto&theme=github_dark" />&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naheunpranto&theme=github_dark" /> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naheunpranto&theme=dark&hide_border=true&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=444444" alt="naheunpranto" /></p>
 
 </div>
 
