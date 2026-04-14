@@ -1,0 +1,34 @@
+name: Update Stats SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # প্রতিদিন রাত ১২টায় run হবে
+  workflow_dispatch:       # manually trigger করা যাবে
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: naheunpranto
+        run: python update_stats.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add stats.svg
+          git diff --staged --quiet || git commit -m "chore: update stats svg"
+          git push
