@@ -14,14 +14,14 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
     <text x="40" y="82" font-family="monospace" font-size="11" fill="#555555">total commits</text>
-    <text x="40" y="110" font-family="monospace" font-size="26" font-weight="700" fill="#ffffff">88</text>
+    <text x="40" y="110" font-family="monospace" font-size="26" font-weight="700" fill="#ffffff">90</text>
   </g>
 
   <!-- repos -->
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
     <text x="40" y="146" font-family="monospace" font-size="11" fill="#555555">repositories</text>
-    <text x="40" y="174" font-family="monospace" font-size="26" font-weight="700" fill="#ffffff">26</text>
+    <text x="40" y="174" font-family="monospace" font-size="26" font-weight="700" fill="#ffffff">27</text>
   </g>
 
   <!-- pull requests -->
@@ -62,7 +62,7 @@
     stroke-linecap="round"
     stroke-dasharray="427" stroke-dashoffset="427"
     transform="rotate(-90 360 175)">
-    <animate attributeName="stroke-dashoffset" from="427" to="192" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="stroke-dashoffset" from="427" to="196" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.4s" fill="freeze"/>
   </circle>
 
@@ -71,7 +71,7 @@
     stroke-linecap="round"
     stroke-dasharray="314" stroke-dashoffset="314"
     transform="rotate(-90 360 175)">
-    <animate attributeName="stroke-dashoffset" from="314" to="251" dur="1.4s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="stroke-dashoffset" from="314" to="248" dur="1.4s" begin="0.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.7s" fill="freeze"/>
   </circle>
 
@@ -80,7 +80,7 @@
     stroke-linecap="round"
     stroke-dasharray="207" stroke-dashoffset="207"
     transform="rotate(-90 360 175)">
-    <animate attributeName="stroke-dashoffset" from="207" to="172" dur="1.4s" begin="1.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="stroke-dashoffset" from="207" to="170" dur="1.4s" begin="1.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze"/>
   </circle>
 
@@ -125,7 +125,7 @@
     <text x="40" y="362" font-family="monospace" font-size="11" fill="#cccccc">HTML</text>
     <rect x="110" y="354" width="460" height="5" rx="2" fill="#1a1a1a"/>
     <rect x="110" y="354" width="0" height="5" rx="2" fill="#e34f26">
-      <animate attributeName="width" from="0" to="253" dur="1.2s" begin="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      <animate attributeName="width" from="0" to="248" dur="1.2s" begin="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     </rect>
     <text x="582" y="362" font-family="monospace" font-size="11" fill="#555555">62%</text>
   </g>
@@ -136,7 +136,7 @@
     <text x="40" y="380" font-family="monospace" font-size="11" fill="#cccccc">JS</text>
     <rect x="110" y="372" width="460" height="5" rx="2" fill="#1a1a1a"/>
     <rect x="110" y="372" width="0" height="5" rx="2" fill="#f7df1e">
-      <animate attributeName="width" from="0" to="92" dur="1.2s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      <animate attributeName="width" from="0" to="97" dur="1.2s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     </rect>
     <text x="582" y="380" font-family="monospace" font-size="11" fill="#555555">24%</text>
   </g>
