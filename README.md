@@ -111,7 +111,9 @@ status   →  building quietly 🤫
 <div align="center">
 
 
-![stats](https://github.com/user-attachments/assets/710a43ad-f7ac-4384-b433-8298575f3919)
+<!-- ![stats](https://github.com/user-attachments/assets/710a43ad-f7ac-4384-b433-8298575f3919) -->
+
+<img src="./stats.svg" width="100%" alt=""/>&nbsp;
 
 
 <!-- New file -->
