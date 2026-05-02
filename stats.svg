@@ -12,13 +12,13 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
     <text x="40" y="82" font-family="monospace" font-size="11" fill="#555555">total commits</text>
-    <text x="40" y="110" font-family="monospace" font-size="26" font-weight="700" fill="#ffffff">133</text>
+    <text x="40" y="110" font-family="monospace" font-size="26" font-weight="700" fill="#ffffff">135</text>
   </g>
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
     <text x="40" y="146" font-family="monospace" font-size="11" fill="#555555">repositories</text>
-    <text x="40" y="174" font-family="monospace" font-size="26" font-weight="700" fill="#ffffff">31</text>
+    <text x="40" y="174" font-family="monospace" font-size="26" font-weight="700" fill="#ffffff">32</text>
   </g>
 
   <g opacity="0">
@@ -54,7 +54,7 @@
   <circle cx="340" cy="155" r="62" fill="none" stroke="#e34f26" stroke-width="12"
     stroke-linecap="round" stroke-dasharray="390" stroke-dashoffset="390"
     transform="rotate(-90 340 155)" opacity="0">
-    <animate attributeName="stroke-dashoffset" from="390" to="222" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="stroke-dashoffset" from="390" to="226" dur="1.4s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.4s" fill="freeze"/>
   </circle>
 
@@ -79,7 +79,7 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.5s" fill="freeze"/>
     <rect x="440" y="100" width="8" height="8" rx="2" fill="#e34c26"/>
     <text x="455" y="109" font-family="monospace" font-size="12" fill="#cccccc">HTML</text>
-    <text x="560" y="109" font-family="monospace" font-size="12" fill="#555555">43%</text>
+    <text x="560" y="109" font-family="monospace" font-size="12" fill="#555555">42%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.8s" fill="freeze"/>
@@ -97,7 +97,7 @@
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.2s" fill="freeze"/>
     <rect x="440" y="172" width="8" height="8" rx="2" fill="#3572A5"/>
     <text x="455" y="181" font-family="monospace" font-size="12" fill="#cccccc">Python</text>
-    <text x="560" y="181" font-family="monospace" font-size="12" fill="#555555">7%</text>
+    <text x="560" y="181" font-family="monospace" font-size="12" fill="#555555">6%</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.3s" fill="freeze"/>
@@ -122,9 +122,9 @@
     <text x="40" y="342" font-family="monospace" font-size="11" fill="#cccccc">HTML</text>
     <rect x="130" y="334" width="430" height="5" rx="2" fill="#1a1a1a"/>
     <rect x="130" y="334" width="0" height="5" rx="2" fill="#e34c26">
-      <animate attributeName="width" from="0" to="185" dur="1.2s" begin="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      <animate attributeName="width" from="0" to="181" dur="1.2s" begin="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     </rect>
-    <text x="572" y="342" font-family="monospace" font-size="11" fill="#555555">43%</text>
+    <text x="572" y="342" font-family="monospace" font-size="11" fill="#555555">42%</text>
   </g>
 
   <!-- Bar 2 -->
@@ -155,9 +155,9 @@
     <text x="40" y="387" font-family="monospace" font-size="11" fill="#cccccc">Python</text>
     <rect x="130" y="379" width="430" height="5" rx="2" fill="#1a1a1a"/>
     <rect x="130" y="379" width="0" height="5" rx="2" fill="#3572A5">
-      <animate attributeName="width" from="0" to="30" dur="1.2s" begin="1.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+      <animate attributeName="width" from="0" to="26" dur="1.2s" begin="1.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
     </rect>
-    <text x="572" y="387" font-family="monospace" font-size="11" fill="#555555">7%</text>
+    <text x="572" y="387" font-family="monospace" font-size="11" fill="#555555">6%</text>
   </g>
 
   <!-- Bar 5 -->
